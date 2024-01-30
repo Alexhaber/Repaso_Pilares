@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\bin\Debug\net6.0\Repaso_pilares.exe
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\bin\Debug\net6.0\Repaso_pilares.deps.json
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\bin\Debug\net6.0\Repaso_pilares.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\bin\Debug\net6.0\Repaso_pilares.dll
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\bin\Debug\net6.0\Repaso_pilares.pdb
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.dll
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\refint\Repaso_pilares.dll
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.pdb
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\Repaso_pilares.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Repaso_pilares\Repaso_pilares\obj\Debug\net6.0\ref\Repaso_pilares.dll
